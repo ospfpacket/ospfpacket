@@ -25,6 +25,6 @@ I am a Network Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 - :seedling: Python Network Automation.
 
-- :zap: In my free time, I spend time with my 3 boys camping and playing video games.
+- :zap: When I'm not working, I spend time with my wife and 3 boys camping, playing video games, and cooking! @crave_spices
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-DBAR-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ospfpacket/)
