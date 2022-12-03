@@ -18,7 +18,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 I am a Network Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Atlanta.
 - :telescope: I’m working as a Network Team Lead and contributing to the largest childrens health system in GA.
 
