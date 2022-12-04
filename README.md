@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/network-networking-cisco-Zx1KzuQBR8wIbrm81t" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen>
+  <img src="[https://giphy.com/gifs/network-networking-cisco-Zx1KzuQBR8wIbrm81t](https://media0.giphy.com/media/LHXUcNUE4q45OHHS6j/giphy.gif?cid=ecf05e47jl603zw2kkv2bajxjq0oow876gpuutn1j0ivnjge&rid=giphy.gif&ct=g)" width="100">
   <div id="badges">
     <a href="https://www.linkedin.com/in/ospfpacket/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
