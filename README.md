@@ -6,6 +6,7 @@
     </a>
     <a href="https://www.youtube.com/c/ospfpacket">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+      <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCbA_wlg_fcODMRzNE7FFmgw?style=for-the-badge">
     </a>
     <a href="https://www.twitter.com/ospfpacket">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
