@@ -18,10 +18,10 @@
 
 ### :man_technologist: About Me :
 I am a Network Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Atlanta.
-- :telescope: I’m working as a Network Team Lead and contributing to the largest childrens health system in GA.
+- :telescope: I’m working as an IT Infrastructure Supervisor in the OT Networks space.
 
 - :seedling: Python Network Automation.
 
-- :zap: When I'm not working, I spend time with my wife and 3 boys camping, playing video games, and cooking! @crave_spices
+- :zap: When I'm not working, I spend time with my wife and 4 boys camping, playing video games, and cooking!
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-DBAR-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ospfpacket/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-DBAR-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danielbarron89/)
